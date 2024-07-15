@@ -3,3 +3,4 @@ var b=3;
 var c=4;
 var d=5;
 var e= 60;
+var f =70;
