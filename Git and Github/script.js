@@ -6,3 +6,4 @@ var e = 6;
 var f = 7;
 var e= 60;
 var f =70;
+var g = 80;
